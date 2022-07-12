@@ -1,8 +1,5 @@
-# Fake-Google
-# C-CODE-PRACTICES-biswa2210
-# HEALTHY-PROGRAMMAR  :star_struck: :open_mouth: :running: :star2:
+# Fake-Google  :star_struck: :open_mouth: :running: :star2:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/GUI-tkinter-blue)](https://shields.io/)
 <br>
 
 ***This new Snake Game using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
