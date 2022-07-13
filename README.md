@@ -18,31 +18,15 @@
 
 This is a basic website anmed Fake Google. It is created using HTML only. I created it for practicing HTML tags. Here are many interesting things.
 
-## LINK of full project: :point_right: 
-
 ## Folder Structure :point_down:
 
 ```bash
 FAKE GOOGLE
-     ├── dev.html
-     ├── index.html
-     ├── link.html
-     ├── mainpage.html
-     ├── sank.html
-     ├── rath.html
-     ├── orri.html
-     └── Lok.html
+     ├── error.html
+     ├── google.html
+     ├── sign.html
+     └── youtube.html
  ```               
-
-## Screenshots :point_down: 
-
-<div align="center">
-<a href="ori1.PNG"><img src="ori1.PNG" width="400" height= "300"></a> <a href="ori2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
-
-<a href="ori3.PNG"><img src="ori3.PNG" width="400" height= "300"></a> <a href="ori4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
-
-<a href="ori5.PNG"><img src="ori5.PNG" width="800" height= "300"></a>
-</div>
 
 
 
