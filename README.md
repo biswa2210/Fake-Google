@@ -18,6 +18,10 @@
 
 This is a basic website anmed Fake Google. It is created using HTML only. I created it for practicing HTML tags. Here are many interesting things.
 
+## FAKE GOOGLE DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=EOoiCryP1Wc&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=9">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## Folder Structure :point_down:
 
 ```bash
@@ -27,6 +31,18 @@ FAKE GOOGLE
      ├── sign.html
      └── youtube.html
  ```               
+<div align="center">
 
+<a href="fake1.png"><img src="fake1.png" width="800" height= "380"></a> 
+    
+<a href="fake2.png"><img src="fake2.png" width="800" height= "380"></a> 
 
+<a href="fake3.png"><img src="fake3.png" width="800" height= "380"></a> 
 
+<a href="fake4.png"><img src="fake4.png" width="800" height= "380"></a> 
+
+<a href="fake5.png"><img src="fake5.png" width="800" height= "380"></a> 
+
+<a href="fake6.png"><img src="fake6.png" width="800" height= "380"></a> 
+
+</div>
